@@ -3,27 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alinhamento Vertical./title>
+    <title>Alinhamento Vertical</title>
     <link rel="stylesheet" href=".//_css/fundo001.css">
 </head>
 <style>
     #container{
-        height: 500px;
-        background-color: purple;
-        padding: 10px;
-        position: relative;
-    }
+    background-image: url('https://raw.githubusercontent.com/gustavoguanabara/html-css/master/exercicios/modulo-03/ex022/imagens/wallpaper003.jpg');
+    background-size: 100% 100%;
 
-    #conteudo{
-        height: 200px;
-        background-color: yellow;
-        width: 400px;
-        position: absolute;
-        
-        left: 50%;
-        top: 50%;
+    height: 96vh;
+    background-color: purple;
+    padding: 10px;
+    position: relative;
+}
 
-    }
+#conteudo{
+    background-image: url('https://raw.githubusercontent.com/gustavoguanabara/html-css/master/exercicios/modulo-03/ex022/imagens/wallpaper003.jpg');
+    background-size: 100% 100%;
+
+    height: 200px;
+    background-color: yellow;
+    width: 400px;
+    position: absolute;
+    
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+}
 </style>
 <body>
     <section id="container">

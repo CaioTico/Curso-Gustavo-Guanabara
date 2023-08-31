@@ -78,9 +78,10 @@ section > p {
 
 .imagem > p{
     display: inline-block;
-    padding: 5px;
+    padding: 13px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
+    border-radius: 0.7rem;
 }
 
 #img01{

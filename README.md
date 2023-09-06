@@ -11,8 +11,8 @@ Atividades
 
 Aqui se localiza as atividades.
 
-* Aqui neste link está localizado o [exercicio 01](https://caiotico.github.io/Curso-Gustavo-Guanabara/fundo001.html) que nele aprimorei alguns conhecimentos sobre `backgorund-image`,<br> como `background-size: cover;` e `background-attachment: fixed;`.
-* Aqui neste link está localizado o [exercicio 02](https://caiotico.github.io/Curso-Gustavo-Guanabara/fundo002.html) que nele aprimorei alguns conhecimentos sobre alinhamento de `div`,<br> com o `transform: translate();`.
+* Aqui neste link está localizado o [exercicio 01](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex001/fundo001.html) que nele aprimorei alguns conhecimentos sobre `backgorund-image`,<br> como `background-size: cover;` e `background-attachment: fixed;`.
+* Aqui neste link está localizado o [exercicio 02](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex002/fundo002.html) que nele aprimorei alguns conhecimentos sobre alinhamento de `div`,<br> com o `transform: translate();`.
 
 
 Frase Motivacional

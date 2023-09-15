@@ -3,7 +3,7 @@ Exercícios do curso do Gustavo Guanabara
 
 
 1. Neste Readme vou mostrar meu progresso no curso do `GUSTAVO GUANABARA`.
-2. Aqui estou fazendo as atividades propostas no curso, usando as linguagens `html` e `css`, e vou explicar logo abaixo as atividades.
+2. Aqui estou fazendo as atividades propostas no curso, usando as linguagens `html5` e `css3`, e vou explicar logo abaixo as atividades.
 
 
 Atividades
@@ -21,6 +21,10 @@ Aqui se localiza as atividades.
 * Aqui neste link está localizado os exercícios da pasta `ex004` os exercícios são: [exercicio 01](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex004/tabela001.html), [exercicio 02](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex004/tabela002.html), [exercicio 03](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex004/tabela003.html), 
 [exercicio 04](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex004/tabela004.html), [exercicio 05](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex004/tabela005.html), [exercicio 06](https://caiotico.github.io/Curso-Gustavo-Guanabara/ex004/tabela006.html). Que neles criei algumas tablas e aprendi como mesclar células e fazer efeitos zebrados.
 
+
+## Fontes Utilizadas
+ * [CursoemVideo](https://www.cursoemvideo.com/)
+ * Studio Visual Code
 
 Frase Motivacional
 -----
